@@ -9,3 +9,6 @@ also user can see scores after exiting the game
 
 Thask 2:- Grade Calculater 
 calculates total marks , percentage and grade 
+
+Task 3 :- Atm Machine
+Deposit , Withdraw and checkbalance
